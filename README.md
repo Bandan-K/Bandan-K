@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @Bandan-K
-- 👀 I’m interested in ...
-- 🌱 I’m currently doing B.Tech in Computer Engineering.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on linkedin as linkedin.com/in/bandan-kumar-062969226
+# 👋 Hi, I'm Bandan Kumar Mahto
 
-<!---
-Bandan-K/Bandan-K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a **B.Tech student in Computer Engineering** with a passion for technology, learning, and collaboration.
+
+---
+
+## 👀 About Me
+
+- 🎓 **Education:** B.Tech in Computer Engineering  
+- 💻 **Skills:** Swift, SwiftUI, UIKit, Flutter, GetX, Firebase, Java, and more  
+- 🌱 **Currently Learning:** Advanced SwiftUI, Advanced Flutter techniques, State Management, and Cloud Technologies  
+- 🛠️ **Interests:** iOS App Development, Mobile App Development, IoT, and Full-Stack Development  
+
+---
+
+## 💞️ Collaboration
+
+I'm open to collaborating on:
+- Open-source iOS projects
+- Open-source Flutter projects  
+- IoT-based applications  
+- Projects involving state management, UI/UX design, and cloud integration  
+
+Let's build something amazing together!
+
+---
+
+## 📫 Connect with Me
+
+- 💼 **LinkedIn:** [www.linkedin.com/in/bandan-kumar](www.linkedin.com/in/bandan-kumar)  
+
+---
+
+### 🌟 Thanks for visiting my profile! Let's connect and innovate together.
