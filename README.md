@@ -27,7 +27,7 @@ Let's build something amazing together!
 
 ## 📫 Connect with Me
 
-- 💼 **LinkedIn:** [www.linkedin.com/in/bandan-kumar](www.linkedin.com/in/bandan-kumar)  
+- 💼 **LinkedIn:** www.linkedin.com/in/bandan-kumar
 
 ---
 
